@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="register">Inscrire</string>
+    <string name="empty_field">Veuillez remplir tous les champs obligatoires</string>
+    <string name="password_not_match">Les mots de passe ne correspondent pas</string>
+    <string name="first_name_field">Prenom</string>
+    <string name="last_name_field">Nom</string>
+    <string name="username_field">Nom d`Utilisateur</string>
+    <string name="password_field">Mot de passe</string>
+    <string name="password_confirmation">Confirmez le mot de passe</string>
+    <string name="login_failed">Le nom d`utilisateur ou le mot de passe sont incorrects</string>
+    <string name="login_success">Connecté</string>
+    <string name="booking_success">Réservation réussie</string>
+    <string name="new_password_field">Nouveau mot de passe</string>
+    <string name="confirm_password_field">Confirmez le mot de passe</string>
+    <string name="add_favorite_failed">Déjà dans la liste des favoris</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="booking">Réservation</string>
+    <string name="submit">Soumettre</string>
+    <string name="start_date_field">Date de début (Exemple: 2020-12-01)</string>
+    <string name="end_date_field">Date de fin (Exemple: 2020-12-01)</string>
+    <string name="booking_failed">La réservation a échoué</string>
+    <string name="booking_exist">Déjà réservé</string>
+    <string name="error_message">Format de date incorrect</string>
+    <string name="search_destinations_field">Rechercher des destinations</string>
+    <string name="find_your">Trouver votre</string>
+    <string name="next_destination">Prochaine Destination</string>
+    <string name="recent_field">Récente</string>
+    <string name="see_all_field">Voir tout</string>
+    <string name="top_places_field">Top lieux</string>
+    <string name="booking_field">Commencez à réserver votre voyage</string>
+</resources>

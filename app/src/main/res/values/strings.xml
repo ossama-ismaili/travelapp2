@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="register">Register</string>
+    <string name="empty_field">Please fill all required fields</string>
+    <string name="password_not_match">Passwords do not match</string>
+    <string name="first_name_field">First Name</string>
+    <string name="last_name_field">Last Name</string>
+    <string name="username_field">Username</string>
+    <string name="password_field">Password</string>
+    <string name="password_confirmation">Confirm password</string>
+    <string name="login_failed">Username or password are incorrect</string>
+    <string name="login_success">Logged in</string>
+    <string name="booking_success">Booking Success</string>
+    <string name="new_password_field">New Password</string>
+    <string name="confirm_password_field">Confirm Password</string>
+    <string name="add_favorite_failed">Already in favorite list</string>
+    <string name="create_account">Create Account</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="booking">Booking</string>
+    <string name="submit">Submit</string>
+    <string name="start_date_field">Start Date (Example : 2020-12-01)</string>
+    <string name="end_date_field">End date (Example : 2020-12-01)</string>
+    <string name="booking_failed">Booking Failed</string>
+    <string name="booking_exist">Already booked</string>
+    <string name="error_message">Date format not correct</string>
+    <string name="search_destinations_field">Search Destinations</string>
+    <string name="find_your">Find your</string>
+    <string name="next_destination">Next Destination</string>
+    <string name="recent_field">Recent</string>
+    <string name="see_all_field">See all</string>
+    <string name="top_places_field">Top Places</string>
+    <string name="booking_field">Start Booking Your Trip</string>
+</resources>
